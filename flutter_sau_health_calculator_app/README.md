@@ -1,16 +1,12 @@
-# flutter_sau_health_calculator_app
+## Mobile Application with flutter/dart
+## แอปพิเคชั่นคำนวน BMI/BMR
 
-A new Flutter project.
+<img width="350"  src="https://github.com/user-attachments/assets/24fe779c-1aaf-430d-971f-e5a20ab96c32" />
+&ndsp;&ndsp;&ndsp;&ndsp;&ndsp;
+<img width="350"   src="https://github.com/user-attachments/assets/7461b1de-e2b0-4220-abe4-3d5473bbb68d" />
+<br/><br/>
 
-## Getting Started
+<img width="350"   src="https://github.com/user-attachments/assets/ea103e60-06db-481e-8b2b-e225fef58425" />
+&ndsp;&ndsp;&ndsp;&ndsp;&ndsp;
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="350" src="https://github.com/user-attachments/assets/77e9a4f8-c9c3-478c-b54b-e46973698e35" />
