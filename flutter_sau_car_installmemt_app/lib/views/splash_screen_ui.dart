@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_sau_health_calculator_app/views/home_ui.dart';
+import 'package:flutter_sau_health_calculator_app/views/car_ui.dart.dart';
+
 
 class SplashScreenUi extends StatefulWidget {
   const SplashScreenUi({super.key});
@@ -20,7 +21,7 @@ class _SplashScreenUiState extends State<SplashScreenUi> {
         Navigator.pushReplacement(
         context, 
         MaterialPageRoute(
-          builder: (context) => HomeUi()
+          builder: (context) => CarInstallmentUi(),
           ),
         );
       }
@@ -32,20 +33,20 @@ class _SplashScreenUiState extends State<SplashScreenUi> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color.fromARGB(255, 238, 137, 179),
+      backgroundColor: const Color.fromARGB(255, 248, 135, 59),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Image.asset(
-              'assets/image/calculator.png',
+              'assets/image/car (1).png',
               width: 30,
             ),
             SizedBox(
               height: 20,
             ),
             Text(
-              'Body healty Caculator',
+              'Car for You',
               style:  TextStyle(
                 color: Colors.white
               ),
